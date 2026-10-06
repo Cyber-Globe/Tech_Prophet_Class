@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>
+      Brain Dev Hub Solution | ICT Training, Web Development & Data Analysis
+    </title>
+    <meta
+      name="description"
+      content="Brain Dev Hub Solution offers practical ICT training in Microsoft Office, web development and data analysis, plus WordPress and automation services."
+    />
+    <meta name="author" content="Ojei Onuwa Kelvin" />
+
+    <link rel="icon" type="image/png" href="./images/favicon.ico" />
+  </head>
+  <body>
+    <header>
+      <h1>Brain Dev Hub Solution</h1>
+      <p>Practical tech training and digital solutions.</p>
+    </header>
+
+    <main>
+      <p>
+        Welcome to Brain Dev Hub Solution. we are dedicated to providing
+        high-quality tech training and digital solutions.
+      </p>
+      <p>
+        Our team of experienced professionals is here to help you achieve your
+        tech goals.
+      </p>
+    </main>
+  </body>
+</html>
